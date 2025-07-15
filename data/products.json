@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "High-quality wireless headphones with noise cancellation",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 25.99,
+    "description": "Comfortable cotton t-shirt",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "price": 79.99,
+    "description": "Lightweight running shoes",
+    "stock": 30
+  }
+]
